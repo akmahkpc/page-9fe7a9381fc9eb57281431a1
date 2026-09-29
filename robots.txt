@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.cenxijob.cn/sitemap.xml
